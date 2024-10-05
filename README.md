@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **adellagreca@unisa.it**
 
-- 📄 Know about my experiences [http://attiliodellagreca.com/](http://attiliodellagreca.it/)
+- 📄 Know about my experiences [http://attiliodellagreca.it/](http://attiliodellagreca.it/)
 
 - ⚡ Fun fact: **People think I'm a blockchain expert 😂**
 
