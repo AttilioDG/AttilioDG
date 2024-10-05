@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Attilio Della Greca</h1>
-<h3 align="center">A frontend developer from Italy</h3>
+<h3 align="center"> PhD student at the University of Salerno</h3>
 
-- 📫 How to reach me **attiliodellagreca@gmail.com**
+- 📫 How to reach me **adellagreca@unisa.it**
 
-- 📄 Know about my experiences [http://attiliodellagreca.com/](http://attiliodellagreca.com/)
+- 📄 Know about my experiences [http://attiliodellagreca.com/](http://attiliodellagreca.it/)
 
 - ⚡ Fun fact: **People think I'm a blockchain expert 😂**
 
