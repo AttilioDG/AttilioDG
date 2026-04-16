@@ -12,6 +12,10 @@ Researcher at [Univeristy of Salerno](https://unisa.it) working on **Human-Compu
 
 ### Connect with me:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/attiliodellagreca)
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/attilio.dellagreca)
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/mr.or4nge)
+<a href="https://linkedin.com/in/attiliodellagreca">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/mr.or4nge">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" />
+</a>
+
