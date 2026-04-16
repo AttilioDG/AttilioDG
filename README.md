@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Attilio Della Greca</h1>
-<h3 align="center"> PhD student at the University of Salerno</h3>
+# Hi 👋, I'm Attilio Della Greca
 
-- 📫 How to reach me **adellagreca@unisa.it**
+### 🎓 PhD in Computer Science | Research Fellow @ University of Salerno
 
-- 📄 Know about my experiences [http://attiliodellagreca.it/](http://attiliodellagreca.it/)
+Researcher at [Univeristy of Salerno](https://unisa.it) working on **Human-Computer Interaction**, **XR (VR/AR)**, and **Generative AI**.
 
-- ⚡ Fun fact: **People think I'm a blockchain expert 😂**
+- 🔬 Exploring trust, empathy, and human-centric design in immersive and generative systems
+- 🌐 Portfolio & more: **[attiliodellagreca.it](https://www.attiliodellagreca.it/)**
+- 📫 Reach me at **[adellagreca@unisa.it](mailto:adellagreca@unisa.it)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/attiliodellagreca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="attiliodellagreca" height="30" width="40" /></a>
-<a href="https://fb.com/attilio.dellagreca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="attilio.dellagreca" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.or4nge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.or4nge" height="30" width="40" /></a>
-</p>
+⚡ *Fun fact: I've drunk enough coffee to power a small research lab — measured in papers per espresso.* ☕
+
+### Connect with me:
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/attiliodellagreca)
+[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/attilio.dellagreca)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/mr.or4nge)
